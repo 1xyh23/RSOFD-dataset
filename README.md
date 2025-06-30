@@ -60,3 +60,6 @@ Then select operation type:
 Copy-Paste (1)
 Spliced (2)
 Inpainting (3)
+
+### Preview of Updates
+We will continue to update the scripts for data processing.
