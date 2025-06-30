@@ -13,7 +13,7 @@ The RSOFD dataset is available on multiple platforms:
    - Link: [https://drive.google.com/drive/folders/1il2vmDXzUYPkbqLXfVsfX9UdoHThc7cK](https://drive.google.com/drive/folders/1il2vmDXzUYPkbqLXfVsfX9UdoHThc7cK)
 
 
-# Copy-Paste and Splicing Image Manipulation Tool
+# Copy-Paste， Splicing，and AIGC-Removal Image Manipulation Tool
 
 This tool provides three primary image manipulation capabilities: Copy-Paste, Spliced, and Inpaint(AIGC-removal) tampering. It utilizes deep learning technology for high-quality image inpainting and automatically processes related annotation files (JSON format).
 
